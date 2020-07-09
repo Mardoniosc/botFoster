@@ -30,7 +30,7 @@ def send_people(message):
   bot.reply_to(message, 'Olá meu nome é Foster\n'
                         'Fui criado por Mardonio S Costa com BotFather'
                         '\nUltima atualização: 09/07/2020'
-                        '\nCodigo fonte disponivel no github: https://github.com/Mardoniosc/bottelegram'
+                        '\nCodigo fonte disponivel no github: https://github.com/Mardoniosc/botFoster'
                         '\nPara mais informações pode entrar em contato com @Mardoniosc no telegram'
                         )
 
